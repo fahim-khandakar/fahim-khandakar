@@ -15,4 +15,10 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <br>
 
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+</p>
+
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20fahim-khandakar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

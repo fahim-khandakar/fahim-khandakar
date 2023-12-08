@@ -9,6 +9,10 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 - 💻 **Tech Stack:** My toolkit includes React, JavaScript, HTML, and CSS. I believe in the power of clean code and am committed to staying current with industry best practices.
 
-- 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/fahimkhandakar01/) or [Email](fahimkhandakar01@gmail.com).
+- 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/fahimkhandakar01/) or **fahimkhandakar01@gmail.com**.
 
 ✨ **Let's Code:** Happy coding! 🚀
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=%20fahim-khandakar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

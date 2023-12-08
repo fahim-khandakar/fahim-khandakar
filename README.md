@@ -1,14 +1,12 @@
-### Hi there 👋
+## 🧐 **Current Overview**:
 
-**fahim-khandakar/fahim-khandakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Frontend developer crafting in **the dynamic web world.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently exploring **Node JS & JavaScript Problem Solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Next js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- ⚡ Fun fact **I love coding and creating awesome websites**
+- 📫 How to reach me **fahimkhandakar01@gmail.com**
+
+<br/>

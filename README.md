@@ -13,10 +13,14 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 ✨ **Let's Code:** Happy coding! 🚀
 
-<br>
+<br/>
+
+## :bulb: Tools And Technologies
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,mongo,firebase,html,css" />
+  </a>
 </p>
 
 <br>

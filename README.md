@@ -15,7 +15,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <br/>
 
-## :bulb: Tools And Technologies
+# :bulb: Tools And Technologies
 
 <p >
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <br>
 
-## 💻 Projects
+# 💻 Projects
 
 ### **Explore Elite**
 

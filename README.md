@@ -37,9 +37,9 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 # 💻 Projects
 
-### **Explore Elite**
+## **Explore Elite**
 
-#### [Live Link](https://explore-elite.web.app/)
+### [Live Link](https://explore-elite.web.app/)
 
 #### Features
 
@@ -71,9 +71,9 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 <br>
 <br>
 
-### **Drive Master Pro**
+## **Drive Master Pro**
 
-#### [Live Link](https://drive-master-pro-f36e6.web.app/)
+### [Live Link](https://drive-master-pro-f36e6.web.app/)
 
 #### Features
 
@@ -104,9 +104,9 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 <br>
 <br>
 
-### **Adventures Hub**
+## **Adventures Hub**
 
-#### [Live Link:](https://adventures-hub.web.app/)
+### [Live Link:](https://adventures-hub.web.app/)
 
 #### Features
 

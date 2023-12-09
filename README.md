@@ -23,6 +23,26 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
   </a>
 </p>
 
+<br>
+
+## 💻 Projects
+
+### **Explore Elite**
+
+## [Live Link](https://explore-elite.web.app/)
+
+#### Features
+
+- Users can easily create a tourist account on our website.
+
+- With admin permission, users can assume the role of a guide for enhanced functionality.
+
+- The website is optimized for mobile devices, ensuring a seamless and accessible experience for users on the go.
+
+- Click the heart icon associated with a package to effortlessly add it to your wish route, allowing for easy access to preferred packages.
+
+- Enjoy exclusive discounts when purchasing more than three packages through our platform.
+
 <br/>
 <br/>
 

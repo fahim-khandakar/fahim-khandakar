@@ -24,6 +24,16 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 </p>
 
 <br>
+<br>
+
+# 🚀 **Current Github Status**:
+
+<p  >
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%20fahim-khandakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+<br>
+<br>
 
 # 💻 Projects
 
@@ -128,9 +138,3 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 <br/>
 <br/>
-
-## 🚀 **Current Github Status**:
-
-<p  >
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%20fahim-khandakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>

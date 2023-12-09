@@ -17,7 +17,7 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 ## :bulb: Tools And Technologies
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,tailwind,bootstrap,mongo,firebase,html,css" />
   </a>
@@ -129,6 +129,6 @@ I'm a frontend developer with a passion for React, dedicated to shaping dynamic 
 
 ## 🚀 **Current Github Status**:
 
-<p align="center" width="full">
+<p  >
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%20fahim-khandakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
